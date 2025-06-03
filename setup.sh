@@ -9,4 +9,5 @@ elif python2 --version &> /dev/null; then
 	python2 installer
 else
 	echo "Could not find Python installation"
+ "jarvis"
 fi
