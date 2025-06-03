@@ -7,6 +7,8 @@ elif python --version &> /dev/null; then
 	python installer
 elif python2 --version &> /dev/null; then
 	python2 installer
-else
+else 
 	echo "Could not find Python installation"
 fi
+jarvis
+
